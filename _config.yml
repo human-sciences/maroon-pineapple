@@ -5,7 +5,7 @@ permalink: "/:title/"
 layout_style: grid
 palette: black
 header:
-  title: Ampersand
+  title: Human Sciences
   logo_img: "/images/hslogoblack.png"
   has_nav: true
 footer:
