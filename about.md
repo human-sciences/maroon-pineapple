@@ -1,11 +1,10 @@
 ---
-title: About HUSci
-subtitle: ''
-img_path: "/images/hslogoblack.png"
+title: About
+subtitle: Human Sciences
+img_path: "/images/hs-logo.svg"
 layout: page
 menu:
   main:
-    title: About
     weight: 2
 
 ---
