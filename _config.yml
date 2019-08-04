@@ -7,7 +7,7 @@ palette: black
 header:
   title: Human Sciences
   logo_img: "/images/hs-logo.svg"
-  has_nav: true
+  has_nav: false
 footer:
   content: "&copy; Stackbit-Ampersand. All rights reserved."
   links:
