@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: Human Sciences
+subtitle: ''
 img_path: "/images/hs-logo.svg"
 layout: page
 menu:
